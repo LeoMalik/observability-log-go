@@ -36,7 +36,7 @@ package main
 import (
     "context"
     "fmt"
-    "gitlab.local/observability-log-go/logx"
+    "gitlab.local/leowayne/observability-log-go/logx"
 )
 
 func main() {

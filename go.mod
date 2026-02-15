@@ -1,4 +1,4 @@
-module gitlab.local/observability-log-go
+module gitlab.local/leowayne/observability-log-go
 
 go 1.24.5
 
