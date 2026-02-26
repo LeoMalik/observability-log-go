@@ -8,8 +8,8 @@ import (
 	"strings"
 	"time"
 
-	"gitlab.local/leowayne/observability-log-go.git/logx"
-	"gitlab.local/leowayne/observability-log-go.git/spanx"
+	"github.com/LeoMalik/observability-log-go/logx"
+	"github.com/LeoMalik/observability-log-go/spanx"
 
 	"github.com/gogf/gf/v2/net/gclient"
 	"go.opentelemetry.io/otel"
